@@ -1,6 +1,5 @@
 Web Developer
 Don Slaughter
-digitaldatadr@gmail.com
 Missoula, MT 
 PROFESSIONAL SUMMARY: 
 15+ years of experience in Web Development, Designing User Interface Applications, Testing and documentation of professional web based applications. 
